@@ -19,7 +19,7 @@ A custom payment gateway module for WHMCS that enables **IRIS instant payments**
 ### Step 1: Download
 Download the latest release or clone this repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/whmcs-iris-payments.git
+git clone https://github.com/gtsoulou/whmcs-iris-payments.git
 ```
 
 ### Step 2: Upload Module
@@ -142,8 +142,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this module helpful, please:
 - ⭐ Star this repository
-- 🐛 Report bugs via [Issues](https://github.com/YOUR-USERNAME/whmcs-iris-payments/issues)
-- 💡 Suggest features via [Issues](https://github.com/YOUR-USERNAME/whmcs-iris-payments/issues)
+- 🐛 Report bugs via [Issues](https://github.com/gtsoulou/whmcs-iris-payments/issues)
+- 💡 Suggest features via [Issues](https://github.com/gtsoulou/whmcs-iris-payments/issues)
 
 ## 📬 Contact
 
