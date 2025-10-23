@@ -13,15 +13,6 @@ A custom payment gateway module for WHMCS that enables **IRIS instant payments**
 - ✅ **Offline Payment Method** - No API integration required
 - ✅ **Professional Layout** - Styled interface with clear payment information
 
-## 📸 Screenshots
-
-### Invoice Payment Page
-![Payment Page](screenshots/payment-page.png)
-*Clean, professional payment interface with QR code*
-
-### Admin Configuration
-![Admin Config](screenshots/admin-config.png)
-*Easy-to-use configuration panel*
 
 ## 🚀 Installation
 
